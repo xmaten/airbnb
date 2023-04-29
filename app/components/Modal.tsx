@@ -1,5 +1,5 @@
 'use client'
 
 export const Modal = () => {
-    return <div>modal</div>
+    return <div>modal123</div>
 }
